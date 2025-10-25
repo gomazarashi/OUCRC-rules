@@ -77,3 +77,10 @@
   /// Content
   body
 }
+
+// Supplementary Provisions
+#let supp = {
+  v(1em)
+  h(1em)
+  strong[附則]
+}
