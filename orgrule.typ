@@ -67,7 +67,7 @@
     #v(1em)]
   align(right)[
     #par(text(1em, if not draft {
-      [発効 #in-effect]
+      [制定 #h(1em)  #in-effect]
     } else {
       [起草中]
     }))
